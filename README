@@ -1,0 +1,9 @@
+-----------------Remember to clean code before handing it in-------------------
+
+1) In the first test case we test for sorting a string with 4 newline characters that will be placed before any other text.
+	********************THIS SHOULD BE FIXED BEFORE TURNING IN***********************
+	-New line should not be outputted
+
+2) Then we test for danish letters, which are placed after any test, but in the wrong order.
+	- We will see that strings with danish letters will be sorted in the order {Å,Æ,Ø,å,æ,ø}.
+	- And there is another caviar, the captal danish letters will be placed after any other non danish letter.
